@@ -1,4 +1,5 @@
 # Interrupts in Assembly
+## IT IS AN ACADEMIC OFFENSE TO COPY CODE. THIS IS SIMPLY FOR REFERENCE.
 Working Code for ECE243 Lab 4 (Winter 2023) at the University of Toronto. The goal is to work learn how to use interrupts for the ARMv7 processor on the DE1-SoC board. All code is written and debugged in ARM Assembly. All code is written in C and debugged in ARM Assembly. To simulate the code, upload the code and compile using the ARMv7 [CPUlator online tool](https://cpulator.01xz.net/?sys=arm-de1soc "CPUlator"). See the lab handout for more information.
 
 ## Part 1
